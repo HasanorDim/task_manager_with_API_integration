@@ -18,6 +18,19 @@ A professional Flutter application that connects to a REST API to manage tasks (
 
 ## Screenshots
 
+| Light                                          |                                                |
+| ---------------------------------------------- | ---------------------------------------------- |
+| <img src="screenshots/image.png" width="200">  | <img src="screenshots/image1.png" width="200"> |
+| <img src="screenshots/image2.png" width="200"> | <img src="screenshots/image3.png" width="200"> |
+| <img src="screenshots/image4.png" width="200"> | <img src="screenshots/image5.png" width="200"> |
+| <img src="screenshots/image6.png" width="200"> | <img src="screenshots/image7.png" width="200"> |
+| <img src="screenshots/image8.png" width="200"> | <img src="screenshots/image9.png" width="200"> |
+
+| Dark                                            |                                                 |
+| ----------------------------------------------- | ----------------------------------------------- |
+| <img src="screenshots/imageb.png" width="200">  | <img src="screenshots/imageb2.png" width="200"> |
+| <img src="screenshots/imageb3.png" width="200"> | <img src="screenshots/imageb4.png" width="200"> |
+
 ## Project Structure
 
 ```bash
