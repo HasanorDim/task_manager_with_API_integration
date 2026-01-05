@@ -398,7 +398,7 @@ class _HomeScreenState extends State<HomeScreen>
                     ),
                   ),
                   clipBehavior: Clip.antiAlias,
-                  child: _isLoading
+                  child: !_isLoading
                       ? const ShimmerLoadingList()
                       : Column(
                           children: [
