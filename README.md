@@ -26,6 +26,10 @@ A professional Flutter application that connects to a REST API to manage tasks (
 | <img src="screenshots/image6.png" width="200"> | <img src="screenshots/image7.png" width="200"> |
 | <img src="screenshots/image8.png" width="200"> | <img src="screenshots/image9.png" width="200"> |
 
+| Loading                                        |     |
+| ---------------------------------------------- | --- |
+| <img src="screenshots/images.png" width="200"> |     |
+
 | Dark                                            |                                                 |
 | ----------------------------------------------- | ----------------------------------------------- |
 | <img src="screenshots/imageb.png" width="200">  | <img src="screenshots/imageb2.png" width="200"> |
